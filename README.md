@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
+| [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
+| [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 ## Matrix
 |  |
 | ------- |
