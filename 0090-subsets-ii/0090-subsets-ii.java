@@ -7,13 +7,16 @@ class Solution {
     }
     public void dfs(int[] nums, List<Integer>  curr, Set<List<Integer>> ans, int idx){
         if(idx == nums.length){
-            // Collections.sort(curr);
             ans.add(new ArrayList<>(curr));
             return;
         }
+        
         curr.add(nums[idx]);
         dfs(nums, curr, ans, idx+1);
         curr.remove(curr.size() - 1);
+        while (idx + 1 < nums.length && nums[idx] == nums[idx + 1]) {
+            idx++;
+        }
         dfs(nums, curr,ans , idx+1);
     }
 }
