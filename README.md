@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 ## Matrix
 |  |
