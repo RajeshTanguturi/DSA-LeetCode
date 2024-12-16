@@ -1,22 +1,30 @@
 class Solution {
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Set<List<Integer>> ans = new HashSet<>();
+    public static List<List<Integer>> subsetsWithDup(int[] nums) {
+
+        List<List<Integer>> resultList = new ArrayList<>();
+        List<Integer> currentList = new ArrayList<>();
+
         Arrays.sort(nums);
-        dfs(nums,new ArrayList<>(), ans,0);
-        return new ArrayList<>(ans);
+
+        calcSubset2(nums, 0, currentList, resultList);
+
+        return resultList;
     }
-    public void dfs(int[] nums, List<Integer>  curr, Set<List<Integer>> ans, int idx){
-        if(idx == nums.length){
-            ans.add(new ArrayList<>(curr));
-            return;
+
+    private static void calcSubset2(int[] nums, int start, List<Integer> currentList,
+            List<List<Integer>> resultList) {
+
+        resultList.add(new ArrayList<>(currentList)); // O(n) time to copy
+
+        for (int i = start; i < nums.length; i++) {
+            // Prune decision tree for duplicate numbers after the first occurence.
+            if (i > start && nums[i] == nums[i - 1]) {
+                continue;
+            }
+
+            currentList.add(nums[i]);
+            calcSubset2(nums, i + 1, currentList, resultList);
+            currentList.remove(currentList.size() - 1);
         }
-        
-        curr.add(nums[idx]);
-        dfs(nums, curr, ans, idx+1);
-        curr.remove(curr.size() - 1);
-        while (idx + 1 < nums.length && nums[idx] == nums[idx + 1]) {
-            idx++;
-        }
-        dfs(nums, curr,ans , idx+1);
     }
 }
