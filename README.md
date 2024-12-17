@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
 <!---LeetCode Topics End-->
