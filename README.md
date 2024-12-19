@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
