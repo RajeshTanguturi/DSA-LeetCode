@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 <!---LeetCode Topics End-->
