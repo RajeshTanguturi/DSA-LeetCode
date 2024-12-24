@@ -1,11 +1,14 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        s = s.replaceAll("\\p{Punct}|\\s", "").toLowerCase();
-        return isValidPalindrome(s,0,s.length()-1);
-    }
-    private boolean isValidPalindrome(String s, int l, int r){
-        if(l>=r) return true;
-        if(s.charAt(l) != s.charAt(r)) return false;
-        return isValidPalindrome(s,l+1,r-1);
+        s = s.replaceAll("[^a-zA-Z0-9]+","").toLowerCase();
+        // System.out.println(s);
+        int left = 0;
+        int right = s.length() -1;
+        while(left<=right){
+            if(s.charAt(left)!=s.charAt(right)) return false;
+            left++;
+            right--;
+        }
+        return true;
     }
 }
