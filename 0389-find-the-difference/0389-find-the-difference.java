@@ -2,8 +2,13 @@ class Solution {
     public char findTheDifference(String s, String t) {
         char c = 0;
         // same xor cancels out : a^a = 0;
-        for(char sc : s.toCharArray()) c^=sc;
-        for(char tc : t.toCharArray()) c^=tc;
+        System.out.println(c);
+        for(int i = 0 ; i<s.length() ; i++){
+            c^=s.charAt(i);
+        }
+        for(int i = 0 ; i<t.length() ; i++){
+            c^=t.charAt(i);
+        }
         return c;
     }
 }
