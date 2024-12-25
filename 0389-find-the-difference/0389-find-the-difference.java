@@ -1,14 +1,9 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        char sarr[] = s.toCharArray();
-        char tarr[] = t.toCharArray();
-
-        Arrays.sort(sarr);
-        Arrays.sort(tarr);
-        
-        for(int i = 0 ; i<sarr.length ; i++){
-            if(sarr[i]!=tarr[i]) return tarr[i];
-        }
-        return tarr[tarr.length-1];
+        char c = 0;
+        // same xor cancels out : a^a = 0;
+        for(char sc : s.toCharArray()) c^=sc;
+        for(char tc : t.toCharArray()) c^=tc;
+        return c;
     }
 }
