@@ -7,13 +7,11 @@ class Solution {
             i++;
             j++;
         }
-        while(i<word1.length()){
-            sb.append(word1.charAt(i));
-            i++;
+        if(i<word1.length()){
+            sb.append(word1.substring(i));
         }
-        while( j< word2.length()){
-            sb.append(word2.charAt(j));
-            j++;
+        if( j< word2.length()){
+            sb.append(word2.substring(j));
         }
         return sb.toString();
 
