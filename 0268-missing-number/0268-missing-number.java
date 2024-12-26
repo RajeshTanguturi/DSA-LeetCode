@@ -6,7 +6,6 @@ class Solution {
             // res = res ^ nums[i];
             res = res ^ i ^ nums[i];
         }
-        System.gc();
         return res ^ i ;
     }
 }
