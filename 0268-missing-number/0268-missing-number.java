@@ -1,12 +1,11 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        boolean there[] = new boolean[nums.length+1];
-        for(int i : nums){
-            there[i] = true;
+        int res = 0, i = 0;
+        for( ; i<nums.length ; i++){
+            // res = res ^ i;
+            // res = res ^ nums[i];
+            res = res ^ i ^ nums[i];
         }
-        for(int i = 0 ; i<there.length ; i++){
-            if(!there[i]) return i;
-        }
-        return -1;
+        return res ^ i ;
     }
 }
