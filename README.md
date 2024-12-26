@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0377-combination-sum-iv](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Backtracking
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 ## Matrix
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
@@ -154,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Geometry
