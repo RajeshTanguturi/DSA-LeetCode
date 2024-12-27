@@ -3,9 +3,13 @@ class Solution {
         int count = 0;
         int maxcount = 0;
         for(char c : s.toCharArray()){
-            if (c == '(') count++;
-            else if( c== ')') count--;
-            maxcount = Math.max(maxcount,count);
+            if (c == '('){
+                count++;
+                maxcount = Math.max(maxcount,count);
+            }   
+            else if( c== ')'){
+                count--;
+            }
         }
         return maxcount;
     }
