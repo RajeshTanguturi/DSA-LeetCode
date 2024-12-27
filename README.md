@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0742-to-lower-case) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
