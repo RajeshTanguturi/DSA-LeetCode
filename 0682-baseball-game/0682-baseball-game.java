@@ -17,11 +17,8 @@ class Solution {
             }
         }
        
-        return sum(res);
-    }
-    public int sum(List<Integer> nums){
-        int sum = 0;
-        for(int i : nums){
+       int sum = 0;
+        for(int i : res){
             sum+=i;
         }
         return sum;
