@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0079-word-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0079-word-search) |
 ## Hash Table
