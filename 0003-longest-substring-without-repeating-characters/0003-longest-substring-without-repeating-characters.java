@@ -14,7 +14,7 @@ class Solution {
             }
             maxcount = Math.max(maxcount,count);
         }
-        return Math.max(maxcount,1);
+        return maxcount;
 
 
     }
