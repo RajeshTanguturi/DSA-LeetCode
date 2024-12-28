@@ -10,20 +10,20 @@ class Solution {
         if(i==nums.length -1) return true;
         if(nums[i] > nums[i+1]){
             //checkdecresing
-            int max = nums[i];
+            // int max = nums[i];
             int prev = nums[i];
             for(int j = i; j< nums.length ; j++){
-                if(nums[j]> max || nums[j]>prev) return false;
+                if( nums[j]>prev) return false;
                 prev = nums[j];
             }
             return true;
         }else{
             System.out.println("second case");
-            int min = nums[i];
+            // int min = nums[i];
             int prev = nums[i];
              for(int j = i; j< nums.length ; j++){
             // System.out.println(i+" "+ prev);
-                if(nums[j]<min || nums[j]< prev) return false;
+                if(nums[j]< prev) return false;
                 prev = nums[j];
             }
             return true;
