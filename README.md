@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0932-monotonic-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## String Matching
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0079-word-search) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
