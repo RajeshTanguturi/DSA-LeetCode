@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sliding Window
 |  |
 | ------- |
