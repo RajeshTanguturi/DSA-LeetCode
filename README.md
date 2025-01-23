@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
