@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
