@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0377-combination-sum-iv](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
