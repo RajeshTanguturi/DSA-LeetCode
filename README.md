@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0742-to-lower-case) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
