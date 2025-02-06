@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Math
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,4 +272,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0768-partition-labels) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
