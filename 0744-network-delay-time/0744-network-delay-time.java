@@ -1,21 +1,4 @@
 class Solution {
-    public int minDist(int[] dist,boolean sptSet[]){
-        int min = Integer.MAX_VALUE;
-        int minIdx = 0;
-        for(int i = 0 ; i < dist.length ; i++){
-            if(!sptSet[i] && dist[i] < min){
-                min = dist[i];
-                minIdx = i;
-            }
-        }
-        return minIdx;
-    }
-    public boolean allVisited(boolean sptSet[]){
-        for( boolean b : sptSet){
-            if(!b) return false;
-        }
-        return true;
-    }
     public int networkDelayTime(int[][] times, int n, int k) {
 
         Map<Integer, List<int[]>> adj = new HashMap<>();
