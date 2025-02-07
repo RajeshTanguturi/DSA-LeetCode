@@ -5,6 +5,7 @@ class Solution {
         int left = 0 ; 
         int right = 0;
         int sum = 0;
+        //using sliding window dynamically changing window size 
         while(right < n){
             sum += nums[right];
             while ( sum >= target ){
