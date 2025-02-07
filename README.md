@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0792-binary-search) |
@@ -225,12 +227,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Trie
 |  |
 | ------- |
