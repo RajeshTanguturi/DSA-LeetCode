@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3447-clear-digits](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3447-clear-digits](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
