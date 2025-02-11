@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2211-k-radius-subarray-averages](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2211-k-radius-subarray-averages](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
