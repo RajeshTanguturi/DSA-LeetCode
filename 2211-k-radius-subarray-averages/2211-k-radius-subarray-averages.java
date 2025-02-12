@@ -5,7 +5,7 @@ class Solution {
         Arrays.fill(ans, -1);
          if (2 * k + 1 > n) return ans; 
         long currSum = 0;
-        for( int i = 0 ; i < Math.min(n,2*k+1) ; i++ ){
+        for( int i = 0 ; i < 2*k+1 ; i++ ){
             currSum += nums[i];
         }
         ans[k] = (int) (currSum/(2*k+1));
