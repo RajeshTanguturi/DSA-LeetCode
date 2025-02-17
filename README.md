@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0932-monotonic-array) |
+| [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
+| [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Monotonic Stack
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
