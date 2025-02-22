@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
