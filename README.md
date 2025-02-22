@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0498-diagonal-traverse) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Hash Table
 |  |
