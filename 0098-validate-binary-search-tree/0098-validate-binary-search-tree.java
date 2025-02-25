@@ -28,7 +28,7 @@ class Solution {
         inorder(root);
         List<Integer> sortedAns = new ArrayList<>(ans);
         Collections.sort(ans);
-        System.out.println(ans + "   "+ sortedAns);
+        // System.out.println(ans + "   "+ sortedAns);
         if( ans.get(0) != sortedAns.get(0)) return false;
         int prev = ans.get(0);
         for(int i = 1 ; i< ans.size() ; i++){
