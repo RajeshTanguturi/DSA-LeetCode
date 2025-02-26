@@ -21,7 +21,7 @@ class Solution {
         return ans;
     }
     public int  dfs(TreeNode root, int depth){
-        if(root == null) return 0;
+        if(root == null) return 0 ;
         if( root.left == null && root.right == null){ //
             if(depth >= maxDepth){
                 maxDepth = depth;
