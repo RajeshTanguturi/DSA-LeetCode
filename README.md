@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Math
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
+| [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Greedy
 |  |
 | ------- |
