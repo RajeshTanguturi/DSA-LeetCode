@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Math
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Greedy
 |  |
