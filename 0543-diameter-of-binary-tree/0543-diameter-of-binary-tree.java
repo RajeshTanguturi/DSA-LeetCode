@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    private static int diameter; 
+    private int diameter =  Integer.MIN_VALUE; 
     public int dfs(TreeNode root){
         if(root == null) return 0;
         int left = dfs(root.left);
@@ -25,7 +25,6 @@ class Solution {
         return Math.max(left,right)+1;
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        diameter = Integer.MIN_VALUE;
         dfs(root);
         return diameter;
     }
