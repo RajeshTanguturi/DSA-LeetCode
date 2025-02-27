@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0768-partition-labels) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## String
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
 | [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Monotonic Stack
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
