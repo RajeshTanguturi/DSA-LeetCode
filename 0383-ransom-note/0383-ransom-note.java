@@ -1,6 +1,6 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        int[] chars  = new int[26];
+        short[] chars  = new short[26];
         for( char c : magazine.toCharArray()){
             chars[c-'a']++;
         }
