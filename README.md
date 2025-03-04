@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
