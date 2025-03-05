@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -292,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0050-powx-n) |
 ## Tree
 |  |
