@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0792-binary-search) |
+| [0827-expressive-words](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0827-expressive-words) |
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0932-monotonic-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0768-partition-labels) |
+| [0827-expressive-words](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0827-expressive-words) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0800-letter-case-permutation) |
+| [0827-expressive-words](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0827-expressive-words) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
