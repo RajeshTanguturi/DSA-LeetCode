@@ -1,7 +1,7 @@
 class Solution {
     public int numRescueBoats(int[] people, int limit) {
         Arrays.sort(people);
-        System.out.println(Arrays.toString(people));
+        // System.out.println(Arrays.toString(people));
         int n = people.length;
         int right = n-1;
         int boats = 0;
