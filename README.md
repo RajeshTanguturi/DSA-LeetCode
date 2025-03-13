@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0319-bulb-switcher) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -399,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
