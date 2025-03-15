@@ -19,7 +19,7 @@ class Solution {
             //  System.out.println(Arrays.toString(charFreq));
             while ( left < right && (right - left + 1 ) - maxFreq  > k ){
                 charFreq[s.charAt(left)-'A']--;
-                maxFreq = getMaxFreq(charFreq);
+                // maxFreq = getMaxFreq(charFreq);
                 left++;
             }
             max = Math.max( max, right - left + 1);
