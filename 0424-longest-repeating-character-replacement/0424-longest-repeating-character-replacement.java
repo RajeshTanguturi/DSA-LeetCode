@@ -8,7 +8,7 @@ class Solution {
             char c = s.charAt(right);
             charFreq[c-'A']++;
             maxFreq = Math.max( maxFreq, charFreq[c-'A']);
-            while ( left < right && (right - left + 1 ) - maxFreq  > k ){
+            while ((right - left + 1 ) - maxFreq  > k ){
                 charFreq[s.charAt(left)-'A']--;
                 left++;
             }
