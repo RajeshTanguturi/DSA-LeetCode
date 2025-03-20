@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0125-valid-palindrome) |
