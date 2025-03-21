@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0932-monotonic-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1115-valid-boomerang](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -272,12 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0319-bulb-switcher) |
+| [1115-valid-boomerang](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1115-valid-boomerang) |
 | [1119-robot-bounded-in-circle](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Geometry
 |  |
 | ------- |
+| [1115-valid-boomerang](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Prefix Sum
 |  |
