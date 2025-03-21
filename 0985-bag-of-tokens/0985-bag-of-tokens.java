@@ -10,14 +10,14 @@ class Solution {
                 power-=tokens[left];
                 score++;
                 left++;
-            }else{
-                if(score > 0){
-                    power+=tokens[right];
-                    score--;
-                }
+                maxScore = Math.max(maxScore,score);
+            }else if(score > 0){
+                power+=tokens[right];
+                score--;
                 right--;
+            }else{
+                break;
             }
-            maxScore = Math.max(maxScore,score);
         }
         return maxScore;
     }
