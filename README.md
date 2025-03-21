@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0932-monotonic-array) |
+| [0985-bag-of-tokens](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0985-bag-of-tokens) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0768-partition-labels) |
 | [0827-expressive-words](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0827-expressive-words) |
 | [0917-boats-to-save-people](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0985-bag-of-tokens) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0883-car-fleet](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0985-bag-of-tokens) |
 | [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0985-bag-of-tokens) |
 ## Graph
 |  |
 | ------- |
