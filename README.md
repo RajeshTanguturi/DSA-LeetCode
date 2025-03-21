@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Math
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0319-bulb-switcher) |
+## Union Find
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
