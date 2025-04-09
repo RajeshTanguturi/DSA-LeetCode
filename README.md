@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0932-monotonic-array) |
 | [0985-bag-of-tokens](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0985-bag-of-tokens) |
+| [1036-rotting-oranges](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1115-valid-boomerang](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1137-height-checker) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0498-diagonal-traverse) |
+| [1036-rotting-oranges](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1036-rotting-oranges) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Hash Table
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0744-network-delay-time](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/0744-network-delay-time) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1036-rotting-oranges](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/RajeshTanguturi/DSA-LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
